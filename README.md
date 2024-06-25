@@ -34,7 +34,8 @@ The client-side component of a persistent distributed chat application, built wi
 3. Set up Firebase:
    Follow the instructions from Firebase docs to add Firebase to your Flutter app
 
-4. Run the app:
+5. Run the app:
+   ```sh
    flutter run
 
 ## Created Date
