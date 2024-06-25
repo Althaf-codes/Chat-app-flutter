@@ -38,5 +38,17 @@ The client-side component of a persistent distributed chat application, built wi
    ```sh
    flutter run
 
+## Screenshots
+
+<img src ="screenshots/chatapp_web1.png" width="400px">
+<img src ="screenshots/chatapp_web2.png" width="400px">
+
+<img src ="screenshots/chatapp_mobile2.png" width="400px">
+<img src ="screenshots/chatapp_mobile3.png" width="400px">
+<img src ="screenshots/chatapp_mobile4.png" width="400px">
+<img src ="screenshots/chatapp_mobile5.png" width="400px">
+
+
+
 ## Created Date
 This project was created on January 10, 2024.
