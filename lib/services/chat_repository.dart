@@ -1,0 +1,3 @@
+class ChatRepository {
+  void sendFileMessage() {}
+}

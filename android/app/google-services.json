@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708534960085",
+    "project_id": "chat-socketio-7f0f3",
+    "storage_bucket": "chat-socketio-7f0f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708534960085:android:d191e30582337cc363c75c",
+        "android_client_info": {
+          "package_name": "com.example.chatappp_socketio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbpbeCgiFf-IqEP4ix1Atag5v3HKOu60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
